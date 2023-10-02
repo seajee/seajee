@@ -6,7 +6,7 @@
 
 <!-- Visitors -->
 <div align="center">
-<img src="assets/visitors.gif"> <img src="https://profile-counter.glitch.me/seajee/count.svg">
+<img src="https://profile-counter.glitch.me/seajee/count.svg">
 </div>
 
 <!-- GIFS -->
