@@ -12,7 +12,8 @@
 <!-- GIFS -->
 <div align="center">
 <img src="assets/linuxnow.gif">
+<img src="assets/archlinux.gif">
 <img src="assets/vim.gif">
-<img src="assets/gfx_by_gimp.gif">
+<img src="assets/hotgraphics.gif">
 <img src="assets/evilexplorer.gif">
 </div>
