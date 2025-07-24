@@ -4,11 +4,6 @@
 <img style="" src="assets/hello.gif">
 </div>
 
-<!-- Visitors -->
-<div align="center">
-<img src="https://profile-counter.glitch.me/seajee/count.svg">
-</div>
-
 <!-- GIFS -->
 <div align="center">
 <img src="assets/linuxnow.gif">
